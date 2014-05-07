@@ -4,8 +4,9 @@ public class Panel extends Applet
 {
 	Model m;
 	Start s;
-	public Panel()
+	public Panel(Model m, Start s)
 	{
-		
+		this.m = m;
+		this.s = s;
 	}
 }
