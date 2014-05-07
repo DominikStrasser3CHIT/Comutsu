@@ -9,4 +9,8 @@ public class Panel extends Applet
 		this.m = m;
 		this.s = s;
 	}
+	public void paintComponent(Graphics g)
+	{
+		
+	}
 }
