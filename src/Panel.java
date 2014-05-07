@@ -1,16 +1,13 @@
-import java.applet.Applet;
-import java.awt.Graphics;
-public class Panel extends Applet
+import javax.swing.*;
+public class View 
 {
 	Model m;
-	Start s;
-	public Panel(Model m, Start s)
+	Controller c;
+	Panel p;
+	public Panel()
 	{
-		this.m = m;
-		this.s = s;
-	}
-	public void paintComponent(Graphics g)
-	{
-		
+		JFrame fenster = new JFrame("Comutsu");
+		fenster.setSize(m.);
+		p = new Panel();
 	}
 }

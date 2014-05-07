@@ -6,7 +6,8 @@ public class View
 	Panel p;
 	public View()
 	{
-		JFrame fenster = new JFrame("")
+		JFrame fenster = new JFrame("Comutsu");
+		fenster.setSize(m.);
 		p = new Panel();
 	}
 }
