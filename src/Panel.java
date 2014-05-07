@@ -1,4 +1,8 @@
 
-public class Panel {
-
+public class Panel 
+{
+	public Panel()
+	{
+		
+	}
 }

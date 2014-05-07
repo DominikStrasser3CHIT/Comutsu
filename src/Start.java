@@ -1,4 +1,8 @@
 
-public class Start {
-
+public class Start 
+{
+	public Start()
+	{
+		
+	}
 }

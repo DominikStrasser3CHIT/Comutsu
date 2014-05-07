@@ -1,5 +1,8 @@
 
 public class Model 
 {
-	public void Model
+	public Model()
+	{
+		
+	}
 }

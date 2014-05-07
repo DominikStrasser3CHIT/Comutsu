@@ -1,4 +1,8 @@
 
-public class Zeit {
-
+public class Zeit 
+{
+	public Zeit()
+	{
+		
+	}
 }
